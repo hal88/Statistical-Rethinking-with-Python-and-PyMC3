@@ -1,0 +1,6 @@
+#source this 
+export PATH=/home/hasburner/anaconda3/bin:$PATH
+
+source activate stat-rethink-pymc3
+
+jupyter notebook .
